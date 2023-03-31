@@ -1,0 +1,54 @@
+.container{
+  background-color:#e2e5e8;
+  width: 400px;
+  height: 470px;
+  margin: auto;
+}
+h1{
+  color: #696565;
+  font-size: 25px;
+ text-align: center;
+padding: 20px;
+margin:10px 35px 15px 35px ;
+}
+p,
+span,
+a
+{
+  color: #696565;
+  font-size: 12px;
+ text-align: center;
+;
+}
+.b1 {
+width: 115px;
+height: 35px;
+margin: 15px 35px 15px 35px;
+}
+
+.b2{
+width: px;
+height: 35px;
+width: 50%;
+margin-bottom: 20px;
+}
+div{
+  margin-left: 40px;
+  width: 600px;
+}
+.checkbox{
+
+margin: 15px 0px 10px 40px;
+}
+
+button{
+  width: 320px;
+  height: 35px;
+  color:white;
+  background-color: green;
+  margin: 15px 35px 10px 35px;
+}
+button:hover{
+  background-color:darkgray;
+  color: black;
+}
